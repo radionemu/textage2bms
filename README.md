@@ -1,4 +1,6 @@
 # textage2bms
+fork and editted to apply SOFLAN and Charge Notes over 2 bars
+
 Convert textage.cc to BMS
 
 ### Dependencies
@@ -14,11 +16,10 @@ Convert textage.cc to BMS
 - LN_DISABLE = [True/False] to disable handling of LN (textage2bms.py)
 
 ### Not supported
-- BPM Change
 - DP
 
 ### Known issues
-- LN support is wacky
+- LN support is wacky (still)
 
 # bms-anmitsu
 Flatten 16th notes/jacks into 8th notes for practice
